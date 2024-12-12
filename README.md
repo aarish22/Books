@@ -29,10 +29,6 @@ We welcome contributions to expand this repository! If you have valuable books t
 
 - The PDFs are provided for **educational and non-commercial use only**.
 
-## ❤️ Acknowledgements
 
-Special thanks to the authors and publishers whose work makes this collection possible, and to all contributors helping to grow this library.
-
----
 
 
