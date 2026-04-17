@@ -25,9 +25,7 @@ We welcome contributions to expand this repository! If you have valuable books t
 2. **Add Your Books**: Place your PDFs in the appropriate folder, or create a new folder for a unique topic.
 3. **Submit a Pull Request**: Include a brief description of your additions.
 
-## 📄 Disclaimer
 
-- The PDFs are provided for **educational and non-commercial use only**.
 
 
 
